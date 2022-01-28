@@ -1,0 +1,10 @@
+header img {
+    width: 100px;
+    height: 100px;
+}
+footer p{
+    font-size: x-large;
+}
+main p{
+font-size: x-large;
+}
